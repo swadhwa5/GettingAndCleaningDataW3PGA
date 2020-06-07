@@ -11,6 +11,10 @@ subject_train:7352 rows: cols:1
 x_train: rows:7352 cols:561
 y_train: rows:7352 cols:1
 
+-the first instance of final is the data frame that combines data of train and test versions
+-measure is used to store the mean and std data
+-the second instance of final stores the mean of data on the basis of subject and activity
+
 Column names:
 -features.txt: n, functions
 -activity_labels.txt: code, activity
